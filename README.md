@@ -1,11 +1,11 @@
 <div align="center">
-  <img width="250" height="250" alt="New Project (2)" src="https://github.com/user-attachments/assets/9592e6f2-ee88-4898-80d8-891e2e79fff6" />
+  <img alt="New Project (2)" src="https://github.com/user-attachments/assets/9592e6f2-ee88-4898-80d8-891e2e79fff6" />
 </div>
 
 ## HELLO IM GOOBLEDEGUK!!!!
 
 <div align="center">
-  <img width="1500" height="500" alt="ezgif com-gif-maker (1)" src="https://github.com/user-attachments/assets/3b8bfdef-33b7-4370-bbd7-8e742319bc87" />
+  <img alt="ezgif com-gif-maker (1)" src="https://github.com/user-attachments/assets/3b8bfdef-33b7-4370-bbd7-8e742319bc87" />
 </div>
 
 
