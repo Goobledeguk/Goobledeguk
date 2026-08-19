@@ -1,7 +1,10 @@
-<div align="center">
-  <!-- wsrv.nl/lichtenstein.jpg -->
-<img src="//wsrv.nl/?url=https://ibb.co/bRrzDVyk&w=300&h=300">
-</div>
+<p align="center">
+  <img 
+    src="https://wsrv.nl/?url=YOUR_DIRECT_GIF_URL&output=gif&n=-1" 
+    alt="Project Demo"
+    width="800"
+  >
+</p>
 ## HELLO IM GOOBLEDEGUK!!!!
 <div align="center">
   <img height="200" src="https://github.com/user-attachments/assets/5b6e967e-0315-4ff4-93d3-6fbdfa588774" alt="ezgif com-gif-maker (1)">
