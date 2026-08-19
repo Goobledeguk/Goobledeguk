@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="https://wsrv.nl/?url=https://i.ibb.co/M5RMQHjm/ezgif-com-gif-maker-1.gif" alt="Project Demo" height="300"
+    src="https://wsrv.nl/?url=https://i.ibb.co/M5RMQHjm/ezgif-com-gif-maker-1.gif&output=gif&n=-1" alt="Project Demo" height="300"
   >
 </div>
 ## HELLO IM GOOBLEDEGUK!!!!
