@@ -3,7 +3,7 @@
 </div>
 ## HELLO IM GOOBLEDEGUK!!!!
 <div align="center">
-  <img height="200" src="https://ibb.co/bRrzDVyk" alt="ezgif com-gif-maker (1)">
+  <img height="200" src="https://i.ibb.co/M5RMQHjm/ezgif-com-gif-maker-1.gif" alt="ezgif com-gif-maker (1)">
 </div>
 
 
