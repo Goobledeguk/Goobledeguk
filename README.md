@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="//wsrv.nl/?url=https://ibb.co/bRrzDVyk&w=300&h=300">
+  <img src="//wsrv.nl/?url=[https://ibb.co/bRrzDVyk](https://i.ibb.co/M5RMQHjm/ezgif-com-gif-maker-1.gif)&w=300&h=300">
 </div>
 ## HELLO IM GOOBLEDEGUK!!!!
 <div align="center">
