@@ -1,6 +1,6 @@
 <p align="center">
-  <img 
-    src="https://wsrv.nl/?url=https://ibb.co/bRrzDVyk&output=gif&n=-1" 
+  <img
+    src="https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co%2FbRrzDVyk%2Fezgif-com-gif-maker-1.gif&output=gif&n=-1"
     alt="Project Demo"
     width="800"
   >
