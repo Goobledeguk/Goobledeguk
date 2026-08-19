@@ -1,7 +1,5 @@
 <div align="center">
-<img height="400" width="300" alt="New Project" src="https://github.com/user-attachments/assets/845f9745-cea0-4091-ba11-4428fca647eb" />
-
-
+<img  alt="New Project (1)" src="https://github.com/user-attachments/assets/33ef1df8-287c-4a73-8317-cd6cdd135f18" />
 
 <img  height="200" alt="ezgif com-gif-maker (1)" src="https://github.com/user-attachments/assets/5b6e967e-0315-4ff4-93d3-6fbdfa588774">
 </div>
