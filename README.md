@@ -1,5 +1,6 @@
 <div align="center">
 <img alt="pfp" src="https://github.com/user-attachments/assets/e7673ebe-60f6-4401-b0b6-82957c09f22f" />
+<img  alt="New Project" src="https://github.com/user-attachments/assets/845f9745-cea0-4091-ba11-4428fca647eb" />
 
 
 
