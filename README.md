@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://wsrv.nl/?url=YOUR_DIRECT_GIF_URL&output=gif&n=-1" 
+    src="https://wsrv.nl/?url=https://ibb.co/bRrzDVyk&output=gif&n=-1" 
     alt="Project Demo"
     width="800"
   >
