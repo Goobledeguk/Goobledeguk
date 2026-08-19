@@ -1,6 +1,5 @@
 <div align="center">
-  <!--- wsrv.nl/lichtenstein.jpg --->
-![Lichtenstein](https://wsrv.nl/?url=wsrv.nl/lichtenstein.jpg&w=300&h=300)
+  <img src="https://wsrv.nl/?url=https://ibb.co/bRrzDVyk&w=300&h=300">
 </div>
 ## HELLO IM GOOBLEDEGUK!!!!
 <div align="center">
