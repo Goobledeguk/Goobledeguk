@@ -1,13 +1,9 @@
 <div align="center">
-  <img
-    src="https://i.ibb.co/bRrzDVyk/ezgif-com-gif-maker-1.gif"
-    alt="Project Demo"
-    height="300"
-  >
+
 </div>
 ## HELLO IM GOOBLEDEGUK!!!!
 <div align="center">
-  <img height="200" src="https://github.com/user-attachments/assets/5b6e967e-0315-4ff4-93d3-6fbdfa588774" alt="ezgif com-gif-maker (1)">
+  <img height="200" src="https://ibb.co/bRrzDVyk" alt="ezgif com-gif-maker (1)">
 </div>
 
 
