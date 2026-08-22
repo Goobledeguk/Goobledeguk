@@ -20,9 +20,8 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="telegram logo"  />
-</div>
-
-###
+  <p>PM FOR INQUIRIES</p>
+  </div>
 </div>
 <div align="center">
   <img height="115" alt="ezgif com-gif-maker (1)" src="https://github.com/user-attachments/assets/3b8bfdef-33b7-4370-bbd7-8e742319bc87" />
