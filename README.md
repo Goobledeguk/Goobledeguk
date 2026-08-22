@@ -1,4 +1,4 @@
-<div align="center" display="block">
+<div align="center" style="display="block"">
   <img alt="New Project (2)" src="https://github.com/user-attachments/assets/9592e6f2-ee88-4898-80d8-891e2e79fff6" />
 
   <img height="125" alt="ezgif com-crop (1)" src="https://github.com/user-attachments/assets/3202af2a-70c0-46f2-a3bd-14051b48611d" />
