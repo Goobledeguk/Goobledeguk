@@ -2,7 +2,7 @@
   <img alt="New Project (2)" src="https://github.com/user-attachments/assets/9592e6f2-ee88-4898-80d8-891e2e79fff6" />
 </div>
 <div align="center">
-  <img height="120" alt="ezgif com-crop (1)" src="https://github.com/user-attachments/assets/3202af2a-70c0-46f2-a3bd-14051b48611d" /> 
+  <img height="110" alt="ezgif com-crop (1)" src="https://github.com/user-attachments/assets/3202af2a-70c0-46f2-a3bd-14051b48611d" /> 
   <br clear="both">
 
 <div data-importer="socials" align="center">
@@ -25,7 +25,7 @@
 ###
 </div>
 <div align="center">
-  <img height="125" alt="ezgif com-gif-maker (1)" src="https://github.com/user-attachments/assets/3b8bfdef-33b7-4370-bbd7-8e742319bc87" />
+  <img height="105" alt="ezgif com-gif-maker (1)" src="https://github.com/user-attachments/assets/3b8bfdef-33b7-4370-bbd7-8e742319bc87" />
 </div>
 
 
