@@ -1,7 +1,7 @@
-<div align="center">
+<div align="center" display="block">
   <img alt="New Project (2)" src="https://github.com/user-attachments/assets/9592e6f2-ee88-4898-80d8-891e2e79fff6" />
 
-  <img height="125" alt="ezgif com-speed" src="https://github.com/user-attachments/assets/e1fddbd5-b9f4-4026-ac5c-b15853c5b9a2" />
+  <img height="125" alt="ezgif com-crop (1)" src="https://github.com/user-attachments/assets/3202af2a-70c0-46f2-a3bd-14051b48611d" />
 
 <h2>HELLO IM GOOBLEDEGUK!!!!</h2> 
 </div>
