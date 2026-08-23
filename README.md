@@ -1,10 +1,12 @@
+<!--Profile--> 
 <div align="center">
   <img alt="New Project (2)" src="https://github.com/user-attachments/assets/9592e6f2-ee88-4898-80d8-891e2e79fff6" />
 </div>
+
+<!--Socials--> 
 <div align="center">
   <img height="110" alt="ezgif com-crop (1)" src="https://github.com/user-attachments/assets/3202af2a-70c0-46f2-a3bd-14051b48611d" /> 
   <br clear="both">
-
 <div data-importer="socials" align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   <a href="https://discord.com/users/755367986298224640" target="_blank">
@@ -12,6 +14,7 @@
   </a>
   <a href="https://www.youtube.com/@Goobledeguk" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="youtube logo"  />
+  <br clear="both">
   </a>
   <a href="https://www.instagram.com/goobledeguk/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
@@ -23,10 +26,11 @@
   <p><bold><em>DM FOR INQUIRIES</em></bold></p>
   </div>
 </div>
+
+
+<!--Activities--> 
 <div align="center">
   <img height="115" alt="ezgif com-gif-maker (1)" src="https://github.com/user-attachments/assets/3b8bfdef-33b7-4370-bbd7-8e742319bc87" />
 </div>
-
-
 
 ![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31nmynj62gaxnojjld6hgfmpm7oe&theme=transparent&count=3)
