@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="telegram logo"  />
-  <p><bold>|| DM FOR INQUIRIES ||</bold></p>
+  <p><strong><em>|| DM FOR INQUIRIES ||</em></strong></p>
   </div>
 </div>
 
