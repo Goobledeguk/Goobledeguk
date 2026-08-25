@@ -23,9 +23,12 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="telegram logo"  />
-  <p><bold><em>DM FOR INQUIRIES</em></bold></p>
+  <p><bold>|| DM FOR INQUIRIES ||</bold></p>
   </div>
 </div>
+
+<!--Experience --> 
+<img height="115" alt="ezgif com-gif-maker" src="https://github.com/user-attachments/assets/caf87ec3-9bf9-4e3a-9a8f-27f291bbf4fb" />
 
 
 <!--Activities--> 
