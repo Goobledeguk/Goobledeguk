@@ -28,9 +28,9 @@
 </div>
 
 <!--Experience --> 
+<div align="center">
 <img height="115" alt="ezgif com-gif-maker" src="https://github.com/user-attachments/assets/caf87ec3-9bf9-4e3a-9a8f-27f291bbf4fb" />
-
-
+</div>
 <!--Activities--> 
 <div align="center">
   <img height="115" alt="ezgif com-gif-maker (1)" src="https://github.com/user-attachments/assets/3b8bfdef-33b7-4370-bbd7-8e742319bc87" />
