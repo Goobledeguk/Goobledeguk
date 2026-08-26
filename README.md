@@ -7,7 +7,6 @@
 <div align="center">
   <img height="110" alt="ezgif com-crop (1)" src="https://github.com/user-attachments/assets/3202af2a-70c0-46f2-a3bd-14051b48611d" /> 
   <br clear="both">
-  <p><strong><em>|| DM FOR INQUIRIES ||</em></strong></p>
 <div data-importer="socials" align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   <a href="https://discord.com/users/755367986298224640" target="_blank">
