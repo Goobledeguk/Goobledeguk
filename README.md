@@ -4,16 +4,17 @@
   
   ## Hi, i'm Zander! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTE1bWx4M2M5OHkyeGRhOXJtMXlvZWdreHJ5NnAxbnFmamIyZzU0YyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/NGNb0YWcDjPgP9nlAW/giphy.gif" width="40px"/>
   
-  <p><strong>DESIGN. CREATE. BUILD.</strong></p>
 <div align="left">
 
   ### About Me: 
   
-- <img width="25" alt="pepe-pepe-chat" src="https://github.com/user-attachments/assets/ec0f90cd-de81-4b21-b961-c02abe711383" /> 3rd yr BSCS @ Nortwest Samar State University
-- <img width="25" alt="pepe-emote" src="https://github.com/user-attachments/assets/be751aba-5b9f-4084-867d-c6dd23cf19ad" /> Always eager to learn something new
+- <img width="25" src="https://github.com/user-attachments/assets/be751aba-5b9f-4084-867d-c6dd23cf19ad" />  3rd yr BSCS @ Nortwest Samar State University
+- <img width="25" src="https://github.com/user-attachments/assets/ec0f90cd-de81-4b21-b961-c02abe711383" /> Always eager to learn something new
+- <img width="25" src="https://github.com/user-attachments/assets/bea76e7a-b187-43b6-acd7-22ddac77128d" /> Graphic Designer // Part - time
 - <img width="25" src="https://github.com/user-attachments/assets/bdd97f59-dded-4d50-8892-5254cd062d4f" /> Beggar 
 </div>
-
+  
+  <strong>DESIGN. CREATE. BUILD.</strong>
  ### Techs Tools:  
   <div data-importer="techs" align="center">
     <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
@@ -53,11 +54,24 @@
     <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
   </div>
 </div>
+
 <br clear="both">
+
 <!--Experience --> 
 <div align="center">
 <img height="115" alt="ezgif com-gif-maker" src="https://github.com/user-attachments/assets/caf87ec3-9bf9-4e3a-9a8f-27f291bbf4fb" />
+  <div id="dp">
+  <img width="500" height="300" alt="playtest 1 (1)" src="https://github.com/user-attachments/assets/0621ca5f-2594-4ba8-839b-7cf977d1f76e" />
+  <img width="500" height="300" alt="06e6e2cb-9619-46b6-b954-8e71cae50cb2" src="https://github.com/user-attachments/assets/39416768-1c41-48ea-88a5-8de76ade06b6" />
+  <img width="500" height="300" alt="sports" src="https://github.com/user-attachments/assets/85945fdc-7e4b-4a4d-b4f1-cff43434cedd" />
+  <img width="500" height="300" alt="download" src="https://github.com/user-attachments/assets/c8d9a086-0048-4749-a84e-01bb98e87e3d" />
+
+
+
+  <div>
+
 </div>
+<br clear="both">
 
 <!--Socials--> 
 <div align="center">
@@ -82,7 +96,7 @@
   </div>
 </div>
 
-
+<br clear="both">
 
 <!--Activities--> 
 <div align="center">
