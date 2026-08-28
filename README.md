@@ -61,11 +61,11 @@
 <div align="center">
 <img height="115" alt="ezgif com-gif-maker" src="https://github.com/user-attachments/assets/caf87ec3-9bf9-4e3a-9a8f-27f291bbf4fb" />
   <div id="dp">
-  <img width="500" height="300" alt="playtest 1 (1)" src="https://github.com/user-attachments/assets/0621ca5f-2594-4ba8-839b-7cf977d1f76e" />
-  <img width="500" height="300" alt="06e6e2cb-9619-46b6-b954-8e71cae50cb2" src="https://github.com/user-attachments/assets/39416768-1c41-48ea-88a5-8de76ade06b6" />
-  <img width="500" height="300" alt="sports" src="https://github.com/user-attachments/assets/85945fdc-7e4b-4a4d-b4f1-cff43434cedd" />
-  <img width="500" height="300" alt="download" src="https://github.com/user-attachments/assets/c8d9a086-0048-4749-a84e-01bb98e87e3d" />
-
+  <img width="300" height="100" alt="playtest 1 (1)" src="https://github.com/user-attachments/assets/0621ca5f-2594-4ba8-839b-7cf977d1f76e" />
+  <img width="300" height="100" alt="06e6e2cb-9619-46b6-b954-8e71cae50cb2" src="https://github.com/user-attachments/assets/39416768-1c41-48ea-88a5-8de76ade06b6" />
+  <img width="300" height="100" alt="sports" src="https://github.com/user-attachments/assets/85945fdc-7e4b-4a4d-b4f1-cff43434cedd" />
+  <img width="300" height="100" alt="download" src="https://github.com/user-attachments/assets/c8d9a086-0048-4749-a84e-01bb98e87e3d" />
+  <img width="300" height="100" alt="Recording 2026-08-28 211528" src="https://github.com/user-attachments/assets/ca12de90-2cb6-4798-8484-dbd11e130763" />
 
 
   <div>
