@@ -2,12 +2,95 @@
 <div align="center">
   <img height="300" alt="profile" src="https://github.com/user-attachments/assets/9592e6f2-ee88-4898-80d8-891e2e79fff6" />
   <h3>ALIIZANDER CAHUSAY</h3>
-  <h3 data-importer="text" align="center">TECH STACK</h3>
+<h3 data-importer="text" align="center">TECH STACK</h3>
+</div>
 <br clear="both">
-<p align="center">
-  <img src="./tech-stack.svg" alt="Tech Stack" />
-</p>
 
+<div data-importer="techs" align="center">
+  <style>
+    .pop-icon {
+      transition: transform 0.2s ease-in-out;
+      transform-origin: center;
+      cursor: pointer;
+    }
+    .pop-icon:hover {
+      transform: scale(1.25);
+    }
+  </style>
+
+  <!-- JS -->
+  <svg width="40" height="40" style="overflow: visible; display: inline-block; margin: 0 6px;">
+    <image class="pop-icon" href="https://skillicons.dev/icons?i=js" width="40" height="40"/>
+  </svg>
+  <!-- HTML -->
+  <svg width="40" height="40" style="overflow: visible; display: inline-block; margin: 0 6px;">
+    <image class="pop-icon" href="https://skillicons.dev/icons?i=html" width="40" height="40"/>
+  </svg>
+  <!-- CSS -->
+  <svg width="40" height="40" style="overflow: visible; display: inline-block; margin: 0 6px;">
+    <image class="pop-icon" href="https://skillicons.dev/icons?i=css" width="40" height="40"/>
+  </svg>
+  <!-- React -->
+  <svg width="40" height="40" style="overflow: visible; display: inline-block; margin: 0 6px;">
+    <image class="pop-icon" href="https://skillicons.dev/icons?i=react" width="40" height="40"/>
+  </svg>
+  <!-- Node -->
+  <svg width="40" height="40" style="overflow: visible; display: inline-block; margin: 0 6px;">
+    <image class="pop-icon" href="https://skillicons.dev/icons?i=nodejs" width="40" height="40"/>
+  </svg>
+  <!-- Python -->
+  <svg width="40" height="40" style="overflow: visible; display: inline-block; margin: 0 6px;">
+    <image class="pop-icon" href="https://skillicons.dev/icons?i=py" width="40" height="40"/>
+  </svg>
+  <!-- PHP -->
+  <svg width="40" height="40" style="overflow: visible; display: inline-block; margin: 0 6px;">
+    <image class="pop-icon" href="https://skillicons.dev/icons?i=php" width="40" height="40"/>
+  </svg>
+  <!-- MySQL -->
+  <svg width="40" height="40" style="overflow: visible; display: inline-block; margin: 0 6px;">
+    <image class="pop-icon" href="https://skillicons.dev/icons?i=mysql" width="40" height="40"/>
+  </svg>
+  <!-- Java -->
+  <svg width="40" height="40" style="overflow: visible; display: inline-block; margin: 0 6px;">
+    <image class="pop-icon" href="https://skillicons.dev/icons?i=java" width="40" height="40"/>
+  </svg>
+  <!-- Godot -->
+  <svg width="40" height="40" style="overflow: visible; display: inline-block; margin: 0 6px;">
+    <image class="pop-icon" href="https://skillicons.dev/icons?i=godot" width="40" height="40"/>
+  </svg>
+</div>
+
+<br clear="both">
+
+<h3 data-importer="text" align="center">DESIGN STACK</h3>
+
+<br clear="both">
+
+<div data-importer="techs" align="center">
+  <!-- After Effects -->
+  <svg width="40" height="40" style="overflow: visible; display: inline-block; margin: 0 6px;">
+    <image class="pop-icon" href="https://skillicons.dev" width="40" height="40"/>
+  </svg>
+  <!-- Illustrator -->
+  <svg width="40" height="40" style="overflow: visible; display: inline-block; margin: 0 6px;">
+    <image class="pop-icon" href="https://skillicons.dev" width="40" height="40"/>
+  </svg>
+  <!-- Photoshop -->
+  <svg width="40" height="40" style="overflow: visible; display: inline-block; margin: 0 6px;">
+    <image class="pop-icon" href="https://skillicons.dev" width="40" height="40"/>
+  </svg>
+  <!-- Premiere Pro -->
+  <svg width="40" height="40" style="overflow: visible; display: inline-block; margin: 0 6px;">
+    <image class="pop-icon" href="https://skillicons.dev" width="40" height="40"/>
+  </svg>
+  <!-- Notion -->
+  <svg width="40" height="40" style="overflow: visible; display: inline-block; margin: 0 6px;">
+    <image class="pop-icon" href="https://skillicons.dev" width="40" height="40"/>
+  </svg>
+  <!-- Figma -->
+  <svg width="40" height="40" style="overflow: visible; display: inline-block; margin: 0 6px;">
+    <image class="pop-icon" href="https://skillicons.dev" width="40" height="40"/>
+  </svg>
 </div>
 
 
