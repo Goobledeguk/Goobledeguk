@@ -4,7 +4,6 @@
   <h3>ALIIZANDER CAHUSAY</h3>
 <h3 data-importer="text" align="center">TECH STACK</h3>
 </div>
-<h3 data-importer="text" align="center">TECH STACK</h3>
 
 <br clear="both">
 
