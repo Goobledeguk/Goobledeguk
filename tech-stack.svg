@@ -1,0 +1,31 @@
+<svg fill="none" viewBox="0 0 600 50" width="100%" height="50" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="text-align: center; width: 100%;">
+      <style>
+        .pop-icon {
+          height: 40px;
+          margin: 0 6px;
+          transition: transform 0.2s ease-in-out;
+          transform-origin: center;
+          display: inline-block;
+          cursor: pointer;
+        }
+        .pop-icon:hover {
+          transform: scale(1.25);
+        }
+      </style>
+      
+      <!-- Your Tech Icons Grouped Together -->
+      <img class="pop-icon" src="https://skillicons.dev" alt="js" />
+      <img class="pop-icon" src="https://skillicons.dev" alt="html" />
+      <img class="pop-icon" src="https://skillicons.dev" alt="css" />
+      <img class="pop-icon" src="https://skillicons.dev" alt="react" />
+      <img class="pop-icon" src="https://skillicons.dev" alt="nodejs" />
+      <img class="pop-icon" src="https://skillicons.dev" alt="python" />
+      <img class="pop-icon" src="https://skillicons.dev" alt="php" />
+      <img class="pop-icon" src="https://skillicons.dev" alt="mysql" />
+      <img class="pop-icon" src="https://skillicons.dev" alt="java" />
+      <img class="pop-icon" src="https://skillicons.dev" alt="godot" />
+    </div>
+  </foreignObject>
+</svg>
