@@ -7,33 +7,57 @@
 
 <br clear="both">
 
-<p align="center">
-  <a href="https://github.com"><img src="https://pages.dev" alt="js" height="40" style="margin: 0 6px;" /></a>
-  <a href="https://github.com"><img src="https://pages.dev" alt="html" height="40" style="margin: 0 6px;" /></a>
-  <a href="https://github.com"><img src="https://pages.dev" alt="css" height="40" style="margin: 0 6px;" /></a>
-  <a href="https://github.com"><img src="https://pages.dev" alt="react" height="40" style="margin: 0 6px;" /></a>
-  <a href="https://github.com"><img src="https://pages.dev" alt="nodejs" height="40" style="margin: 0 6px;" /></a>
-  <a href="https://github.com"><img src="https://pages.dev" alt="python" height="40" style="margin: 0 6px;" /></a>
-  <a href="https://github.com"><img src="https://pages.dev" alt="php" height="40" style="margin: 0 6px;" /></a>
-  <a href="https://github.com"><img src="https://pages.dev" alt="mysql" height="40" style="margin: 0 6px;" /></a>
-  <a href="https://github.com"><img src="https://pages.dev" alt="java" height="40" height="40" style="margin: 0 6px;" /></a>
-  <a href="https://github.com"><img src="https://pages.dev" alt="godot" height="40" style="margin: 0 6px;" /></a>
-</p>
+<h3 data-importer="text" align="center">TECH STACK</h3>
+
+###
+
+<br clear="both">
+
+<div data-importer="techs" align="center">
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=godot" height="40" alt="godot logo"  />
+</div>
+
+###
 
 <br clear="both">
 
 <h3 data-importer="text" align="center">DESIGN STACK</h3>
 
+###
+
 <br clear="both">
 
-<p align="center">
-  <a href="https://github.com"><img src="https://pages.dev" alt="ae" height="40" style="margin: 0 6px;" /></a>
-  <a href="https://github.com"><img src="https://pages.dev" alt="ai" height="40" style="margin: 0 6px;" /></a>
-  <a href="https://github.com"><img src="https://pages.dev" alt="ps" height="40" style="margin: 0 6px;" /></a>
-  <a href="https://github.com"><img src="https://pages.dev" alt="pr" height="40" style="margin: 0 6px;" /></a>
-  <a href="https://github.com"><img src="https://pages.dev" alt="notion" height="40" style="margin: 0 6px;" /></a>
-  <a href="https://github.com"><img src="https://pages.dev" alt="figma" height="40" style="margin: 0 6px;" /></a>
-</p>
+<div data-importer="techs" align="center">
+  <img src="https://skillicons.dev/icons?i=ae" height="40" alt="adobeaftereffects logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pr" height="40" alt="adobepremierepro logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=notion" height="40" alt="notion logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+</div>
 
 
 <!--Experience --> 
