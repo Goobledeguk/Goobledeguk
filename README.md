@@ -4,17 +4,8 @@
   
   ## Hi, i'm Zander! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTE1bWx4M2M5OHkyeGRhOXJtMXlvZWdreHJ5NnAxbnFmamIyZzU0YyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/NGNb0YWcDjPgP9nlAW/giphy.gif" width="40px"/>
   
-<div align="left">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&pause=1000&color=FF9600&center=true&vCenter=true&width=435&lines=Graphic+Designer+%2F%2F++Web+Dev;3rd+yr+%40+Northwest+Samar+State+Univeristy;Always+eager+to+learn+something+new;DESIGN.+CREATE.+BUILD.)](https://git.io/typing-svg)
 
-  ### About Me: 
-  
-- <img width="25" src="https://github.com/user-attachments/assets/be751aba-5b9f-4084-867d-c6dd23cf19ad" />  3rd yr BSCS @ Nortwest Samar State University
-- <img width="25" src="https://github.com/user-attachments/assets/ec0f90cd-de81-4b21-b961-c02abe711383" /> Always eager to learn something new
-- <img width="25" src="https://github.com/user-attachments/assets/bea76e7a-b187-43b6-acd7-22ddac77128d" /> Graphic Designer // Part - time
-- <img width="25" src="https://github.com/user-attachments/assets/bdd97f59-dded-4d50-8892-5254cd062d4f" /> Beggar 
-</div>
-  
-  <strong>DESIGN. CREATE. BUILD.</strong>
  ### Tech Tools:  
   <div data-importer="techs" align="center">
     <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
@@ -104,3 +95,5 @@
 </div>
 
 ![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31nmynj62gaxnojjld6hgfmpm7oe&theme=transparent&count=3)
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+![my stats](https://gh-stats.com/api/Goobledeguk)
