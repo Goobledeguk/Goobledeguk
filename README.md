@@ -1,7 +1,7 @@
 <!--Profile--> 
 <div align="center">
   <img height="300" alt="profile" src="https://github.com/user-attachments/assets/9592e6f2-ee88-4898-80d8-891e2e79fff6" />
-  ##ALIIZANDER CAHUSAY
+  ## ALIIZANDER CAHUSAY
 
 
 
@@ -30,7 +30,7 @@
   </div>
   <br clear="both">
   
-  <h3 data-importer="text" align="center">DESIGN STACK</h3>
+  ## DESIGN STACK
   <div data-importer="techs" align="center">
     <img src="https://skillicons.dev/icons?i=ae" height="40" alt="adobeaftereffects logo"  />
     <img width="12" />
