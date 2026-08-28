@@ -1,10 +1,12 @@
 <!--Profile--> 
 <div align="center">
-  <img height="300" alt="profile" src="https://github.com/user-attachments/assets/9592e6f2-ee88-4898-80d8-891e2e79fff6" />
-  ---
-  ## ALIIZANDER CAHUSAY
+  <img height="250" alt="profile" src="https://github.com/user-attachments/assets/9592e6f2-ee88-4898-80d8-891e2e79fff6" />
+
+ ## Alizzander Cahusay
+  <p> 3rd yr BSCS @ NwSSU </p>
+  <p>DESIGN. CREATE. BUILD.</p>
  
-  ## TECH STACK
+ ### Techs Tools:  
   <div data-importer="techs" align="center">
     <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
     <img width="12" />
@@ -28,7 +30,7 @@
   </div>
   <br clear="both">
   
-  ## DESIGN STACK
+  ### Design Tools:
   <div data-importer="techs" align="center">
     <img src="https://skillicons.dev/icons?i=ae" height="40" alt="adobeaftereffects logo"  />
     <img width="12" />
@@ -44,7 +46,6 @@
   </div>
 </div>
 <br clear="both">
-
 <!--Experience --> 
 <div align="center">
 <img height="115" alt="ezgif com-gif-maker" src="https://github.com/user-attachments/assets/caf87ec3-9bf9-4e3a-9a8f-27f291bbf4fb" />
@@ -72,6 +73,8 @@
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="telegram logo"  />
   </div>
 </div>
+
+
 
 <!--Activities--> 
 <div align="center">
