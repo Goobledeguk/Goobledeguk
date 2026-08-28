@@ -3,6 +3,11 @@
   <img alt="New Project (2)" src="https://github.com/user-attachments/assets/9592e6f2-ee88-4898-80d8-891e2e79fff6" />
 </div>
 
+<!--Experience --> 
+<div align="center">
+<img height="115" alt="ezgif com-gif-maker" src="https://github.com/user-attachments/assets/caf87ec3-9bf9-4e3a-9a8f-27f291bbf4fb" />
+</div>
+
 <!--Socials--> 
 <div align="center">
   <img height="110" alt="ezgif com-crop (1)" src="https://github.com/user-attachments/assets/3202af2a-70c0-46f2-a3bd-14051b48611d" /> 
@@ -26,10 +31,6 @@
   </div>
 </div>
 
-<!--Experience --> 
-<div align="center">
-<img height="115" alt="ezgif com-gif-maker" src="https://github.com/user-attachments/assets/caf87ec3-9bf9-4e3a-9a8f-27f291bbf4fb" />
-</div>
 <!--Activities--> 
 <div align="center">
   <img height="115" alt="ezgif com-gif-maker (1)" src="https://github.com/user-attachments/assets/3b8bfdef-33b7-4370-bbd7-8e742319bc87" />
