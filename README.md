@@ -1,6 +1,7 @@
 <!--Profile--> 
 <div align="center">
   <img height="300" alt="profile" src="https://github.com/user-attachments/assets/9592e6f2-ee88-4898-80d8-891e2e79fff6" />
+  <br clear="both">
   <img data-importer="profile-views" align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Goobledeguk.Goobledeguk&right_color=crimson&left_text=cool%20people"  />
   <h3>ALIIZANDER CAHUSAY</h3>
   
