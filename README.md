@@ -4,9 +4,9 @@
   <h3>ALIIZANDER CAHUSAY</h3>
 </div>
 
-###
 
-<h3 data-importer="text" align="center">TECH STACK</h3>
+
+## TECH STACK
 <div data-importer="techs" align="center">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -44,6 +44,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
 </div>
+
+<br clear="both">
 
 <!--Experience --> 
 <div align="center">
