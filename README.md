@@ -1,10 +1,88 @@
 <!--Profile--> 
 <div align="center">
   <img height="300" alt="profile" src="https://github.com/user-attachments/assets/9592e6f2-ee88-4898-80d8-891e2e79fff6" />
-  <br clear="both">
-  <img data-importer="profile-views" align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Goobledeguk.Goobledeguk&right_color=crimson&left_text=cool%20people"  />
   <h3>ALIIZANDER CAHUSAY</h3>
-  
+  <h3 data-importer="text" align="center">TECH STACK</h3>
+
+<br clear="both">
+
+<div data-importer="techs" align="center">
+  <!-- JavaScript -->
+  <svg width="40" height="40" viewBox="0 0 40 40" style="overflow: visible; display: inline-block; margin: 0 6px;">
+    <style> .pop { transition: transform 0.2s ease-in-out; transform-origin: center; } .pop:hover { transform: scale(1.25); cursor: pointer; } </style>
+    <image class="pop" href="https://skillicons.dev/icons?i=js" x="0" y="0" width="40" height="40" />
+  </svg>
+  <!-- HTML5 -->
+  <svg width="40" height="40" viewBox="0 0 40 40" style="overflow: visible; display: inline-block; margin: 0 6px;">
+    <image class="pop" href="https://skillicons.dev/icons?i=html" x="0" y="0" width="40" height="40" />
+  </svg>
+  <!-- CSS -->
+  <svg width="40" height="40" viewBox="0 0 40 40" style="overflow: visible; display: inline-block; margin: 0 6px;">
+    <image class="pop" href="https://skillicons.dev/icons?i=css" x="0" y="0" width="40" height="40" />
+  </svg>
+  <!-- React -->
+  <svg width="40" height="40" viewBox="0 0 40 40" style="overflow: visible; display: inline-block; margin: 0 6px;">
+    <image class="pop" href="https://skillicons.dev/icons?i=react" x="0" y="0" width="40" height="40" />
+  </svg>
+  <!-- Node.js -->
+  <svg width="40" height="40" viewBox="0 0 40 40" style="overflow: visible; display: inline-block; margin: 0 6px;">
+    <image class="pop" href="https://skillicons.dev/icons?i=nodejs" x="0" y="0" width="40" height="40" />
+  </svg>
+  <!-- Python -->
+  <svg width="40" height="40" viewBox="0 0 40 40" style="overflow: visible; display: inline-block; margin: 0 6px;">
+    <image class="pop" href="https://skillicons.dev/icons?i=py" x="0" y="0" width="40" height="40" />
+  </svg>
+  <!-- PHP -->
+  <svg width="40" height="40" viewBox="0 0 40 40" style="overflow: visible; display: inline-block; margin: 0 6px;">
+    <image class="pop" href="https://skillicons.dev/icons?i=php" x="0" y="0" width="40" height="40" />
+  </svg>
+  <!-- MySQL -->
+  <svg width="40" height="40" viewBox="0 0 40 40" style="overflow: visible; display: inline-block; margin: 0 6px;">
+    <image class="pop" href="https://skillicons.dev/icons?i=mysql" x="0" y="0" width="40" height="40" />
+  </svg>
+  <!-- Java -->
+  <svg width="40" height="40" viewBox="0 0 40 40" style="overflow: visible; display: inline-block; margin: 0 6px;">
+    <image class="pop" href="https://skillicons.dev/icons?i=java" x="0" y="0" width="40" height="40" />
+  </svg>
+  <!-- Godot -->
+  <svg width="40" height="40" viewBox="0 0 40 40" style="overflow: visible; display: inline-block; margin: 0 6px;">
+    <image class="pop" href="https://skillicons.dev/icons?i=godot" x="0" y="0" width="40" height="40" />
+  </svg>
+</div>
+
+<br clear="both">
+
+<h3 data-importer="text" align="center">DESIGN STACK</h3>
+
+<br clear="both">
+
+<div data-importer="techs" align="center">
+  <!-- After Effects -->
+  <svg width="40" height="40" viewBox="0 0 40 40" style="overflow: visible; display: inline-block; margin: 0 6px;">
+    <image class="pop" href="https://skillicons.dev/icons?i=ae" x="0" y="0" width="40" height="40" />
+  </svg>
+  <!-- Illustrator -->
+  <svg width="40" height="40" viewBox="0 0 40 40" style="overflow: visible; display: inline-block; margin: 0 6px;">
+    <image class="pop" href="https://skillicons.dev/icons?i=ai" x="0" y="0" width="40" height="40" />
+  </svg>
+  <!-- Photoshop -->
+  <svg width="40" height="40" viewBox="0 0 40 40" style="overflow: visible; display: inline-block; margin: 0 6px;">
+    <image class="pop" href="https://skillicons.dev/icons?i=ps" x="0" y="0" width="40" height="40" />
+  </svg>
+  <!-- Premiere Pro -->
+  <svg width="40" height="40" viewBox="0 0 40 40" style="overflow: visible; display: inline-block; margin: 0 6px;">
+    <image class="pop" href="https://skillicons.dev/icons?i=pr" x="0" y="0" width="40" height="40" />
+  </svg>
+  <!-- Notion -->
+  <svg width="40" height="40" viewBox="0 0 40 40" style="overflow: visible; display: inline-block; margin: 0 6px;">
+    <image class="pop" href="https://skillicons.dev/icons?i=notion" x="0" y="0" width="40" height="40" />
+  </svg>
+  <!-- Figma -->
+  <svg width="40" height="40" viewBox="0 0 40 40" style="overflow: visible; display: inline-block; margin: 0 6px;">
+    <image class="pop" href="https://skillicons.dev/icons?i=figma" x="0" y="0" width="40" height="40" />
+  </svg>
+</div>
+
 </div>
 
 
