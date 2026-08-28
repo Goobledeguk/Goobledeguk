@@ -2,7 +2,6 @@
 <div align="center">
   <img height="300" alt="profile" src="https://github.com/user-attachments/assets/9592e6f2-ee88-4898-80d8-891e2e79fff6" />
   <h3>ALIIZANDER CAHUSAY</h3>
-<h3 data-importer="text" align="center">TECH STACK</h3>
 </div>
 
 <br clear="both">
