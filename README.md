@@ -4,61 +4,22 @@
   <h3>ALIIZANDER CAHUSAY</h3>
 <h3 data-importer="text" align="center">TECH STACK</h3>
 </div>
+<h3 data-importer="text" align="center">TECH STACK</h3>
+
 <br clear="both">
 
-<div data-importer="techs" align="center">
-  <style>
-    .pop-icon {
-      transition: transform 0.2s ease-in-out;
-      transform-origin: center;
-      cursor: pointer;
-    }
-    .pop-icon:hover {
-      transform: scale(1.25);
-    }
-  </style>
-
-  <!-- JS -->
-  <svg width="40" height="40" style="overflow: visible; display: inline-block; margin: 0 6px;">
-    <image class="pop-icon" href="https://skillicons.dev/icons?i=js" width="40" height="40"/>
-  </svg>
-  <!-- HTML -->
-  <svg width="40" height="40" style="overflow: visible; display: inline-block; margin: 0 6px;">
-    <image class="pop-icon" href="https://skillicons.dev/icons?i=html" width="40" height="40"/>
-  </svg>
-  <!-- CSS -->
-  <svg width="40" height="40" style="overflow: visible; display: inline-block; margin: 0 6px;">
-    <image class="pop-icon" href="https://skillicons.dev/icons?i=css" width="40" height="40"/>
-  </svg>
-  <!-- React -->
-  <svg width="40" height="40" style="overflow: visible; display: inline-block; margin: 0 6px;">
-    <image class="pop-icon" href="https://skillicons.dev/icons?i=react" width="40" height="40"/>
-  </svg>
-  <!-- Node -->
-  <svg width="40" height="40" style="overflow: visible; display: inline-block; margin: 0 6px;">
-    <image class="pop-icon" href="https://skillicons.dev/icons?i=nodejs" width="40" height="40"/>
-  </svg>
-  <!-- Python -->
-  <svg width="40" height="40" style="overflow: visible; display: inline-block; margin: 0 6px;">
-    <image class="pop-icon" href="https://skillicons.dev/icons?i=py" width="40" height="40"/>
-  </svg>
-  <!-- PHP -->
-  <svg width="40" height="40" style="overflow: visible; display: inline-block; margin: 0 6px;">
-    <image class="pop-icon" href="https://skillicons.dev/icons?i=php" width="40" height="40"/>
-  </svg>
-  <!-- MySQL -->
-  <svg width="40" height="40" style="overflow: visible; display: inline-block; margin: 0 6px;">
-    <image class="pop-icon" href="https://skillicons.dev/icons?i=mysql" width="40" height="40"/>
-  </svg>
-  <!-- Java -->
-  <svg width="40" height="40" style="overflow: visible; display: inline-block; margin: 0 6px;">
-    <image class="pop-icon" href="https://skillicons.dev/icons?i=java" width="40" height="40"/>
-  </svg>
-  <!-- Godot -->
-  <svg width="40" height="40" style="overflow: visible; display: inline-block; margin: 0 6px;">
-    <image class="pop-icon" href="https://skillicons.dev/icons?i=godot" width="40" height="40"/>
-  </svg>
-</div>
+<p align="center">
+  <a href="https://github.com"><img src="https://pages.dev" alt="js" height="40" style="margin: 0 6px;" /></a>
+  <a href="https://github.com"><img src="https://pages.dev" alt="html" height="40" style="margin: 0 6px;" /></a>
+  <a href="https://github.com"><img src="https://pages.dev" alt="css" height="40" style="margin: 0 6px;" /></a>
+  <a href="https://github.com"><img src="https://pages.dev" alt="react" height="40" style="margin: 0 6px;" /></a>
+  <a href="https://github.com"><img src="https://pages.dev" alt="nodejs" height="40" style="margin: 0 6px;" /></a>
+  <a href="https://github.com"><img src="https://pages.dev" alt="python" height="40" style="margin: 0 6px;" /></a>
+  <a href="https://github.com"><img src="https://pages.dev" alt="php" height="40" style="margin: 0 6px;" /></a>
+  <a href="https://github.com"><img src="https://pages.dev" alt="mysql" height="40" style="margin: 0 6px;" /></a>
+  <a href="https://github.com"><img src="https://pages.dev" alt="java" height="40" height="40" style="margin: 0 6px;" /></a>
+  <a href="https://github.com"><img src="https://pages.dev" alt="godot" height="40" style="margin: 0 6px;" /></a>
+</p>
 
 <br clear="both">
 
@@ -66,33 +27,14 @@
 
 <br clear="both">
 
-<div data-importer="techs" align="center">
-  <!-- After Effects -->
-  <svg width="40" height="40" style="overflow: visible; display: inline-block; margin: 0 6px;">
-    <image class="pop-icon" href="https://skillicons.dev" width="40" height="40"/>
-  </svg>
-  <!-- Illustrator -->
-  <svg width="40" height="40" style="overflow: visible; display: inline-block; margin: 0 6px;">
-    <image class="pop-icon" href="https://skillicons.dev" width="40" height="40"/>
-  </svg>
-  <!-- Photoshop -->
-  <svg width="40" height="40" style="overflow: visible; display: inline-block; margin: 0 6px;">
-    <image class="pop-icon" href="https://skillicons.dev" width="40" height="40"/>
-  </svg>
-  <!-- Premiere Pro -->
-  <svg width="40" height="40" style="overflow: visible; display: inline-block; margin: 0 6px;">
-    <image class="pop-icon" href="https://skillicons.dev" width="40" height="40"/>
-  </svg>
-  <!-- Notion -->
-  <svg width="40" height="40" style="overflow: visible; display: inline-block; margin: 0 6px;">
-    <image class="pop-icon" href="https://skillicons.dev" width="40" height="40"/>
-  </svg>
-  <!-- Figma -->
-  <svg width="40" height="40" style="overflow: visible; display: inline-block; margin: 0 6px;">
-    <image class="pop-icon" href="https://skillicons.dev" width="40" height="40"/>
-  </svg>
-</div>
-
+<p align="center">
+  <a href="https://github.com"><img src="https://pages.dev" alt="ae" height="40" style="margin: 0 6px;" /></a>
+  <a href="https://github.com"><img src="https://pages.dev" alt="ai" height="40" style="margin: 0 6px;" /></a>
+  <a href="https://github.com"><img src="https://pages.dev" alt="ps" height="40" style="margin: 0 6px;" /></a>
+  <a href="https://github.com"><img src="https://pages.dev" alt="pr" height="40" style="margin: 0 6px;" /></a>
+  <a href="https://github.com"><img src="https://pages.dev" alt="notion" height="40" style="margin: 0 6px;" /></a>
+  <a href="https://github.com"><img src="https://pages.dev" alt="figma" height="40" style="margin: 0 6px;" /></a>
+</p>
 
 
 <!--Experience --> 
