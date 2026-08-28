@@ -15,7 +15,7 @@
 </div>
   
   <strong>DESIGN. CREATE. BUILD.</strong>
- ### Techs Tools:  
+ ### Tech Tools:  
   <div data-importer="techs" align="center">
     <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
     <img width="12" />
