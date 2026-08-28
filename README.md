@@ -1,50 +1,50 @@
 <!--Profile--> 
 <div align="center">
   <img height="300" alt="profile" src="https://github.com/user-attachments/assets/9592e6f2-ee88-4898-80d8-891e2e79fff6" />
-  <h3>ALIIZANDER CAHUSAY</h3>
+  ##ALIIZANDER CAHUSAY
+
+
+
+  
+  ## TECH STACK
+  <div data-importer="techs" align="center">
+    <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=godot" height="40" alt="godot logo"  />
+  </div>
+  <br clear="both">
+  
+  <h3 data-importer="text" align="center">DESIGN STACK</h3>
+  <div data-importer="techs" align="center">
+    <img src="https://skillicons.dev/icons?i=ae" height="40" alt="adobeaftereffects logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=pr" height="40" alt="adobepremierepro logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=notion" height="40" alt="notion logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  </div>
 </div>
-
-
-
-## TECH STACK
-<div data-importer="techs" align="center">
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=godot" height="40" alt="godot logo"  />
-</div>
-<br clear="both">
-
-<h3 data-importer="text" align="center">DESIGN STACK</h3>
-<div data-importer="techs" align="center">
-  <img src="https://skillicons.dev/icons?i=ae" height="40" alt="adobeaftereffects logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pr" height="40" alt="adobepremierepro logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=notion" height="40" alt="notion logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-</div>
-
 <br clear="both">
 
 <!--Experience --> 
