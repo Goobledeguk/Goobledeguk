@@ -1,11 +1,19 @@
 <!--Profile--> 
 <div align="center">
   <img height="250" alt="profile" src="https://github.com/user-attachments/assets/9592e6f2-ee88-4898-80d8-891e2e79fff6" />
+  
+  ## Hi, i'm Zander! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTE1bWx4M2M5OHkyeGRhOXJtMXlvZWdreHJ5NnAxbnFmamIyZzU0YyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/NGNb0YWcDjPgP9nlAW/giphy.gif" width="40px"/>
+  
+  <p><strong>DESIGN. CREATE. BUILD.</strong></p>
+<div align="left">
 
- ## Alizzander Cahusay
-  <p> 3rd yr BSCS @ NwSSU </p>
-  <p>DESIGN. CREATE. BUILD.</p>
- 
+  ### About Me: 
+  
+- <img width="25" alt="pepe-pepe-chat" src="https://github.com/user-attachments/assets/ec0f90cd-de81-4b21-b961-c02abe711383" /> 3rd yr BSCS @ Nortwest Samar State University
+- <img width="25" alt="pepe-emote" src="https://github.com/user-attachments/assets/be751aba-5b9f-4084-867d-c6dd23cf19ad" /> Always eager to learn something new
+- <img width="25" src="https://github.com/user-attachments/assets/bdd97f59-dded-4d50-8892-5254cd062d4f" /> Beggar 
+</div>
+
  ### Techs Tools:  
   <div data-importer="techs" align="center">
     <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
