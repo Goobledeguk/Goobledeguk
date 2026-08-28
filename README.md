@@ -6,13 +6,8 @@
 </div>
 
 <br clear="both">
-
 <h3 data-importer="text" align="center">TECH STACK</h3>
-
-###
-
 <br clear="both">
-
 <div data-importer="techs" align="center">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -34,17 +29,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=godot" height="40" alt="godot logo"  />
 </div>
-
-###
-
 <br clear="both">
-
 <h3 data-importer="text" align="center">DESIGN STACK</h3>
-
-###
-
 <br clear="both">
-
 <div data-importer="techs" align="center">
   <img src="https://skillicons.dev/icons?i=ae" height="40" alt="adobeaftereffects logo"  />
   <img width="12" />
@@ -58,7 +45,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
 </div>
-
 
 <!--Experience --> 
 <div align="center">
