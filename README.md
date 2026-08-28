@@ -4,7 +4,7 @@
   <h3>ALIIZANDER CAHUSAY</h3>
 </div>
 
-### :technologist: About Me:
+###
 
 <h3 data-importer="text" align="center">TECH STACK</h3>
 <div data-importer="techs" align="center">
@@ -29,8 +29,8 @@
   <img src="https://skillicons.dev/icons?i=godot" height="40" alt="godot logo"  />
 </div>
 <br clear="both">
+
 <h3 data-importer="text" align="center">DESIGN STACK</h3>
-<br clear="both">
 <div data-importer="techs" align="center">
   <img src="https://skillicons.dev/icons?i=ae" height="40" alt="adobeaftereffects logo"  />
   <img width="12" />
