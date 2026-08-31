@@ -16,6 +16,8 @@
     <img width="12" />
     <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
     <img width="12" />
+    <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="react logo"  />
+    <img width="12" />
     <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
     <img width="12" />
     <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
